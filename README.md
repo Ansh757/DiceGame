@@ -1,7 +1,7 @@
 # DiceGame
 Senior Year of High School Project - Dice Game 
 
-# **Final Project of the Year**
+# **Senior Year of High School Project**
 The Java Project was based on OOP and made a GUI interface. 
 
 The Project included Two Games: 
